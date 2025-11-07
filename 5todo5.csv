@@ -1,0 +1,5 @@
+EName,EmpNo,DeptNo,JobRole,DeptLoc,ProjectLoc
+Ram,101,1,Developer,Bengaluru,Bengaluru
+Kumar,102,2,"Data Scientist",Hyderabad,Hyderabad
+Mahesh,103,3,Analyst,Mysuru,Mysuru
+Suresh,104,4,Manager,Bengaluru,Bengaluru
